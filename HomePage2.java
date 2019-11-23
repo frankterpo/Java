@@ -12,7 +12,7 @@ import java.io.IOException;
 //create class and extend with JFrame
 public class HomePage2 extends JFrame 
 {
-    
+   
     //declare variable
     private JPanel contentPane;
     /**
