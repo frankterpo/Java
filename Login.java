@@ -94,7 +94,6 @@ try {
     
 }
 
-
 /* Login code
  * 
  * String username = “”; //input by user
