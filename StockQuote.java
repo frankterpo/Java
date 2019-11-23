@@ -105,7 +105,7 @@ public class StockQuote extends JFrame
                     }
                 }
                 line = buff.readLine();
-                
+               
             }  
             //STORE TICKER AND PRICE IN JSON ARRAY
             JSONObject stockObj = new JSONObject();
