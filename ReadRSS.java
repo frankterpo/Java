@@ -14,7 +14,7 @@ import java.awt.*;
 
 public class ReadRSS extends JFrame {
     public static ArrayList<String> news = new ArrayList<String>();
-    
+   
     public static void main(String[] args){
         System.out.println("----------------------------");
         //update();
