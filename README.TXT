@@ -10,5 +10,5 @@ VERSION or DATE:
 HOW TO START THIS PROJECT: Through Login's main method
 AUTHORS: Francisco Terpolilli
 USER INSTRUCTIONS: 1. Run Login's main method
-                   2. Enter Username, 'hi', and Password, 'dude'
+                   2. Enter Username and Password
                    3. Enjoy.
